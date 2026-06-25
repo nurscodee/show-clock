@@ -8,7 +8,9 @@ A minimalist, clean, and responsive digital clock web application built using HT
 
 This is a small-scale, hobby project created to practice core web development concepts. The main focus of this project was to master asynchronous JavaScript timing events and DOM manipulation by creating a real-time updating clock and day display.
 
-(Live Demo)[]
+## Live Demo
+
+(Live Demo)[https://nurscodee.github.io/show-clock/]
 
 ## 💡 What I Learned
 
@@ -33,7 +35,7 @@ By building this project, I successfully learned and implemented:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/nurscodee/show-clock.git](https://github.com/nurscodee/show-clock.git)
    ```
 2. **Navigate to the project folder:**
    ```bash
