@@ -10,7 +10,7 @@ This is a small-scale, hobby project created to practice core web development co
 
 ## Live Demo
 
-(Live Demo)[https://nurscodee.github.io/show-clock/]
+[Live Demo](https://nurscodee.github.io/show-clock/)
 
 ## 💡 What I Learned
 
