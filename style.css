@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(4, 4, 92);
+  color: rgb(82, 255, 93);
+}
+.clock {
+  font-size: 188px;
+}
+.days {
+  font-size: 72px;
+}
